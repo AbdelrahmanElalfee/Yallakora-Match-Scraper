@@ -1,5 +1,5 @@
 
-# Yallakora Matches Scrapper
+# Yallakora Matches Scraper
 
 This project is a web scraper designed to extract football match details from the Yallakora website based on a user-defined date. The extracted data is then stored in a CSV file for easy access and analysis. This tool is particularly useful for football enthusiasts, analysts, and developers who need to gather match information efficiently.
 
